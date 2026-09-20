@@ -297,4 +297,4 @@ Interested in:
 ### 🔗 Connect With Me
 
 - GitHub: [SaudMajrashi2004](https://github.com/SaudMajrashi2004)
-- LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/saud-majrashi)
