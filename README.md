@@ -297,5 +297,6 @@ Interested in:
 ### 🔗 Connect With Me
 
 - GitHub: [SaudMajrashi2004](https://github.com/SaudMajrashi2004)
-- LinkedIn:(www.linkedin.com/in/saud-majrashi)
+- LinkedIn:www.linkedin.com/in/saud-majrashi
+
 
